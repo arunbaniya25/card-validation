@@ -1,0 +1,126 @@
+.body {
+}
+
+.container {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #f3e8e6;
+}
+
+.paymentDetails {
+  margin-right: 100px;
+  width: 350px;
+  height: 250px;
+  padding: 20px;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  background-color: aliceblue;
+}
+
+.formDiv {
+  width: 350px;
+  height: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  background-color: aliceblue;
+}
+
+.creditCard {
+  width: 315px;
+}
+.alert {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.creditCard {
+  margin-bottom: 10%;
+}
+
+#validateButton {
+  margin: 4px;
+  margin-right: 10px;
+}
+
+.form-control {
+  margin: 4px;
+}
+
+.alert {
+  margin-top: 4px;
+  color: rgb(0, 0, 0);
+  font-weight: 1000;
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.nav-container {
+  margin-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding-left: 35%;
+}
+
+.validate-button {
+  align-items: center;
+}
+
+.navbar {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.alert {
+  padding: 0rem 0rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.product__details {
+  padding: 30px 25px;
+
+  color: black;
+}
+
+.product__details-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.product__details-sub-heading {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.otp {
+  display: flex;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.otpBox {
+  margin-right: 8px;
+}
+
+.otpButton {
+  margin-top: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-bottom-width: 1px;
+  width: 70px;
+  height: 30px;
+  padding-top: 0px;
+}
